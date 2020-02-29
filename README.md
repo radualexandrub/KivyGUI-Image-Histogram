@@ -3,9 +3,9 @@ Graphical user interface using Kivy library for image conversion with gray level
 
 ## Screenshots
 <p float="left">
-  <img src="/images/screenshot1" width="200" />
-  <img src="/images/screenshot2" width="200" /> 
-  <img src="/images/screenshot3" width="200" />
+  <img src="images/screenshot1.jpg" width="200" />
+  <img src="images/screenshot2.jpg" width="200" /> 
+  <img src="images/screenshot3.jpg" width="200" />
 </p>
 
 ## Prerequisites
