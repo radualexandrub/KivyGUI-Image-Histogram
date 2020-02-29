@@ -3,9 +3,9 @@ Graphical user interface using Kivy library for image conversion with gray level
 
 ## Screenshots
 <p float="left">
-  <img src="images/screenshot1.jpg" width="230" />
-  <img src="images/screenshot2.jpg" width="230" /> 
-  <img src="images/screenshot3.jpg" width="230" />
+  <img src="images/screenshot1.jpg" width="250" />
+  <img src="images/screenshot2.jpg" width="250" /> 
+  <img src="images/screenshot3.jpg" width="250" />
 </p>
 
 ## Prerequisites
@@ -28,3 +28,9 @@ git clone https://github.com/radualexandrub/KivyGUI-Image-Histogram.git KivyApp
 cd KivyApp
 python3 KivyGUI-App.py
 ```
+## Application description
+The application consists of a single main window, which contains 5 elements:
+- The "File Chooser" browser from which the images can be selected
+- An image space (upper right corner) where the selected image will be displayed, respectively the gray level image (lower right corner)
+- An image space where the histogram of the selected image will be displayed
+- 5 buttons for displaying each color channel in the histogram, respectively the simultaneous display of the 3 channels or the histogram display for the image converted to gray levels.
