@@ -3,9 +3,9 @@ Graphical user interface using Kivy library for image conversion with gray level
 
 ## Screenshots
 <p float="left">
-  <img src="images/screenshot1.jpg" width="200" />
-  <img src="images/screenshot2.jpg" width="200" /> 
-  <img src="images/screenshot3.jpg" width="200" />
+  <img src="images/screenshot1.jpg" width="230" />
+  <img src="images/screenshot2.jpg" width="230" /> 
+  <img src="images/screenshot3.jpg" width="230" />
 </p>
 
 ## Prerequisites
@@ -14,6 +14,7 @@ Graphical user interface using Kivy library for image conversion with gray level
 
 ## Installation 
 **For Anaconda Environment in Windows OS**
+
 To install the Kivy library, open the Command Prompt from Anaconda and execute the command: 
 ```
 conda install kivy -c conda-forge
