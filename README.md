@@ -39,10 +39,10 @@ The application consists of a single main window, which contains 5 elements:
 
 Optional in Command Prompt (Windows):
 - check conda environments:
-'''
+```
 conda env list
-'''
+```
 - check which packages are installed in the current conda environment:
-'''
+```
 conda list
-'''
+```
