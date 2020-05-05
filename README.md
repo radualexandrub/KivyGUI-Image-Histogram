@@ -14,6 +14,7 @@ Graphical user interface using Kivy library for image conversion with gray level
 
 ## Installation 
 **For Anaconda Environment in Microsoft Windows 10**
+
 To install the Kivy library, open the Command Prompt from Anaconda and execute the command: 
 ```
 conda install kivy -c conda-forge
