@@ -34,3 +34,15 @@ The application consists of a single main window, which contains 5 elements:
 - An image space (upper right corner) where the selected image will be displayed, respectively the gray level image (lower right corner)
 - An image space where the histogram of the selected image will be displayed
 - 5 buttons for displaying each color channel in the histogram, respectively the simultaneous display of the 3 channels or the histogram display for the image converted to gray levels.
+
+
+
+Optional in Command Prompt (Windows):
+- check conda environments:
+'''
+conda env list
+'''
+- check which packages are installed in the current conda environment:
+'''
+conda list
+'''
